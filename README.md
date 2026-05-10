@@ -1,4 +1,4 @@
-# 🇱🇰 Sri Lanka Tourism Dashboard - ARIMAX 8.69% 🥇
+# Sri Lanka Tourism Dashboard - ARIMAX 8.69% 🥇
 
 **Live SLTDA Production System** | 3.14M 2026 Forecast
 
