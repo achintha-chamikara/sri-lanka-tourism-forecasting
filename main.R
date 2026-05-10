@@ -13,7 +13,7 @@ library(patchwork)
 library(jsonlite)   # for dashboard JSON export
 
 # ── 1. DATA LOAD ──────────────────────────────────────────────────────────────
-DATA_PATH <- "C:\\Users\\ASUS\\Downloads\\files (5)\\sri_lanka_tourism_project\\sri_lanka_tourism\\data\\Tourist Arrivals (2014 Jan - 2025 Dec).xlsx"
+DATA_PATH <- "data/tourist_arrivals.xlsx"
 
 cat("Loading data from:", DATA_PATH, "\n")
 
