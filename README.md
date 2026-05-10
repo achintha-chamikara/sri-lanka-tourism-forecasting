@@ -11,7 +11,9 @@
 | BSTS | 17.6% | 🟡 UNCERTAINTY |
 | Prophet | 14.7% | 🔵 MONITORING |
 
-**[Open Dashboard Now →]([dashboard/index.html](https://achintha-chamikara.github.io/sri-lanka-tourism-forecasting/dashboard/index.html))**
+**[🚀 Live Dashboard](https://achintha-chamikara.github.io/sri-lanka-tourism-forecasting/dashboard/index.html)**
+
+**Repo:** https://github.com/achintha-chamikara/sri-lanka-tourism-forecasting
 
 ## 📈 2026 Forecasts (ARIMAX)
 
