@@ -36,10 +36,15 @@
 
 **Airport Alert**: Dec 357k > **350k capacity**
 ## 🛠️ Run It
+
 ```r
-source("install_packages.R")  # Installs everything
-source("main.R")              # Runs your models
+source("install_packages.R")
+source("main.R")
 ```
 
-**Built by Achintha Chamikara** | Colombo, Sri Lanka
-⭐ Star if useful! #rstats #srilanka
+**Main outputs:** forecast files, cross-validation results, dashboard data, Excel report, and diagnostic plots.
+
+**Built by:** Achintha Chamikara | Colombo, Sri Lanka  
+**Portfolio:** [Live Dashboard](https://achintha-chamikara.github.io/sri-lanka-tourism-forecasting/dashboard/index.html)
+
+⭐ **Star if useful!** #rstats #forecasting #srilanka #datascience
