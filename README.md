@@ -17,8 +17,8 @@
 
 ## 🛠️ Run It
 ```r
-install.packages(c("forecast","bsts","prophet"))
-source("main.R")
+source("install_packages.R")  # Installs everything
+source("main.R")              # Runs your models
 ```
 
 **Built by Achintha Chamikara** | Colombo, Sri Lanka
