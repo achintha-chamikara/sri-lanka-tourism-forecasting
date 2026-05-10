@@ -12,3 +12,7 @@
 | Prophet | 14.7% | 🔵 Monitoring |
 
 **Open Dashboard**: [dashboard/index.html](dashboard/index.html)
+**UPLOAD THESE 3 FILES**:
+1. dashboard/index.html ← [file:165] (your dashboard)
+2. data/tourist_arrivals.xlsx ← [file:28] (your data)
+3. main.R ← COPY BELOW ⬇️
